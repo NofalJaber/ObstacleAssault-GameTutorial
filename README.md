@@ -3,7 +3,9 @@
 This project was made by following this Udemy course: https://www.udemy.com/course/unrealcourse/?couponCode=ST22FS22724
 
 Functionalities:
+
 -Movable 3rd person character
+
 -Moving/Rotating platforms/walls that pushes the player
 
 
