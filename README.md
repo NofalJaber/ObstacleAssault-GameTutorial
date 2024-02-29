@@ -7,6 +7,10 @@ Functionalities:
 -Moving/Rotating platforms/walls that pushes the player
 
 
-https://github.com/NofalJaber/ObstacleAssault-Game/assets/158154010/009b7c3c-0515-42fb-8b2e-94594479913a
+
+https://github.com/NofalJaber/ObstacleAssault-Game/assets/158154010/16f5f8a8-1f48-4caa-acfb-390b4220422f
+
+
+
 ![ObstacleAssault gif 1](https://github.com/NofalJaber/ObstacleAssault-Game/assets/158154010/ce5c9bf2-b8ca-4d5f-ad7f-e04826b1ec92)
 ![ObstacleAssault gif 2](https://github.com/NofalJaber/ObstacleAssault-Game/assets/158154010/12944f3d-a6b6-41c3-836c-c486d59633b9)
